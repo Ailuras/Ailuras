@@ -1,8 +1,8 @@
-### Yoo, I'm Hays Chan 👋
+### Yoo, I'm hrcarryu 👋
 
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhrcarryu)](https://github.com/hrcarryu)
 [![Zhihu](https://img.shields.io/badge/dynamic/json?logo=zhihu&label=Zhihu&labelColor=81F7F3&color=81F7F3&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dxiang-long-zai-tian-52)](https://www.zhihu.com/people/xiang-long-zai-tian-52)
-[![Notion](https://img.shields.io/badge/Notion--D0F5A9?logo=notion?labelColor=D0F5A9)](https://foggy-hour-c66.notion.site/a80d2580e7f14c3481af1eb75434726c?v=a10ae36c26bc40389a901788d37442a6)
+[![Notion](https://img.shields.io/badge/Notion-share-D0F5A9?logo=notion&style=social)](https://foggy-hour-c66.notion.site/a80d2580e7f14c3481af1eb75434726c?v=a10ae36c26bc40389a901788d37442a6)
 
 - 👶 A CS graduate at 🇨🇳 [UCAS](https://www.UCAS.ac.cn).
 - ⚡ Currently focusing on Automatic reasoning and graph neural network.
