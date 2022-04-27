@@ -9,7 +9,7 @@
 - 🌱 Currently focusing on Automatic reasoning and graph neural network.
 - 🔭 Insterested in both Mathematics and artificial intelligence.
 - 📫 Email: [hanrui22@outlook.com](hanrui22@outlook.com).
-- 🍎 Blog: [https://hrcarryu.github.io/](https://hrcarryu.github.io/).
+- 🍎 Blog: [https://www.hrcarryu.top](https://www.hrcarryu.top).
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=hrcarryu&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
